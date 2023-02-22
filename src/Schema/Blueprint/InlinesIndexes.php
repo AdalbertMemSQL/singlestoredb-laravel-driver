@@ -85,7 +85,6 @@ trait InlinesIndexes
     }
 
     /**
-     * @param  Grammar  $grammar
      * @return void
      */
     protected function addImpliedCommands(Grammar $grammar)
